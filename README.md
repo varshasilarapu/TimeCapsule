@@ -98,7 +98,7 @@ Video demonstration is available in the `Video Demo` folder.
 * **Kodamanchili Sri Satya Lokesh** – Junior Flow Development
 * **Kankatala Madhurima** – SharePoint Management
 * **Billakurthi Varshitha** – Form Creation and Senior Testing & Validation
-* **Malla Charmi** – Senior Testing & Validation
+* **Silarapu Varshini satyapriya** – Senior Testing & Validation
 * **Narla Veera Venkata Suryanarayana** – Junior Testing & Validation
 
 ## 🎓 Developed Under
@@ -122,6 +122,7 @@ It serves as a scalable model for academic institutions to preserve and transfer
 For further details, collaboration, or queries regarding this project, feel free to reach out:
 
 📧 **Email:** [varshasilarapu@gmail.com](mailto:varshasilarapu@gmail.com)
+📧 **Email:** [billakurthivarshitha@gmail.com](mailto:billakurthivarshitha@gmail.com)
 
 We welcome feedback and suggestions to improve the platform.
 
