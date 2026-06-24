@@ -121,7 +121,7 @@ It serves as a scalable model for academic institutions to preserve and transfer
 
 For further details, collaboration, or queries regarding this project, feel free to reach out:
 
-📧 **Email:** [billakurthivarshitha@gmail.com](mailto:billakurthivarshitha@gmail.com)
+📧 **Email:** [varshasilarapu@gmail.com](mailto:varshasilarapu@gmail.com)
 
 We welcome feedback and suggestions to improve the platform.
 
